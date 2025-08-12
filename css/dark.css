@@ -922,7 +922,14 @@ figure>figcaption {
 }
 
 footer{
+    text-align: center;
     margin-top: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+    word-break: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
 }
 
 img{
